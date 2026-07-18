@@ -242,3 +242,6 @@ Status
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=190&section=footer&text=Keep%20Learning%20%E2%80%A2%20Keep%20Building%20%E2%80%A2%20Keep%20Growing&fontSize=28&fontColor=FFFFFF&fontAlignY=70&desc=Building%20software%20that%20makes%20a%20difference.&descAlignY=55&descSize=16&color=0:0F0C29,30:302B63,70:6D28D9,100:C084FC"/>
 
 </div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rupeshh132/rupeshh132/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
